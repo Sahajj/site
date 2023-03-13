@@ -1,0 +1,4 @@
+baseURL = 'http://example.org/'
+languageCode = 'en-us'
+title = 'Open lab Networks Blog'
+theme = 'hugo-theme-anubis'
